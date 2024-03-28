@@ -1,4 +1,4 @@
-#  __Staffchat plugins__
+#  __Staffchat plugins SOON__
 _mon premier plugins en java bukkit_
 
 ## ℹ️ Informations
