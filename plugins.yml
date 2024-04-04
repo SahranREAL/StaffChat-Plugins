@@ -1,0 +1,7 @@
+name: staffchat
+author: Sahran
+version: 1.0
+main: bobcatsss.staff.Main
+commands:
+  sc:
+    description: Enable or Disable saffchat
